@@ -6,6 +6,7 @@ int main(void)
 	int test[NUM];
 	int top;
 	int i;
+	int change;
 
 	printf("テストの点数を入力してください。\n");
 	for (i = 0; i < NUM; i++)
